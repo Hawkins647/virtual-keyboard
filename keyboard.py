@@ -1,6 +1,9 @@
 import tkinter as tk
 import string
 
+"""TODO:
+Create checkbox to give window priority on top of other windows
+"""
 
 # define colours and fonts
 background_colour = "#519872"
